@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/django-mptt/django-mptt/commit/72195e261dd865255e835f753ba7977b9fdad6da",
       "git:hexsha": "72195e261dd865255e835f753ba7977b9fdad6da",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/django-mptt/django-mptt/commit/af75aba730ebca305e2579da3498738bc3600256",
