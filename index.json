@@ -1,0 +1,11 @@
+{
+  "org": "django-mptt",
+  "repo": "django-mptt",
+  "versions": [
+    {
+      "commit": "72195e261dd865255e835f753ba7977b9fdad6da",
+      "tag": "",
+      "parsed_at": "2026-10-15T08:57:51.543350+00:00"
+    }
+  ]
+}
